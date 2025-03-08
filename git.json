@@ -1,0 +1,22 @@
+[
+    {
+        "p-rel-url" : "Aakashsrivastava-86/SecondRepo/refs/heads/main/AWCustomers.csv",
+        "p_sink_folder" : "AWCustomers",
+        "p_sink_dir" : "AWCustomers.csv"
+    },
+    {
+        "p-rel-url" : "Aakashsrivastava-86/SecondRepo/refs/heads/main/AWSales.csv",
+        "p_sink_folder" : "AWSales",
+        "p_sink_dir" : "AWSales.csv"
+    },
+    {
+        "p-rel-url" : "Aakashsrivastava-86/SecondRepo/refs/heads/main/AWTest-Classification.csv",
+        "p_sink_folder" : "AWTest-Classification",
+        "p_sink_dir" : "AWTest-Classification.csv"
+    },
+    {
+        "p-rel-url" : "Aakashsrivastava-86/SecondRepo/refs/heads/main/AWTest-Regression.csv",
+        "p_sink_folder" : "AWTest-Regression",
+        "p_sink_dir" : "AWTest-Regression.csv"
+    }
+]
